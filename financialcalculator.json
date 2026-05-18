@@ -1,10 +1,23 @@
 {
   "rates": {
-    "ppf": 7.1,
-    "epf": 8.25,
-    "ssy": 8.2,
-    "kvp": 7.5,
-    "mis": 7.4,
-    "nsc": 7.7
+    "ppf": {
+      "rate": 7.1
+    },
+    "epf": {
+      "rate": 8.25
+    },
+    "kvp": {
+      "rate": 7.5,
+      "tenureMonths": 115
+    },
+    "ssy": {
+      "rate": 8.2
+    },
+    "mis": {
+      "rate": 7.4
+    },
+    "nsc": {
+      "rate": 7.7
+    }
   }
 }
