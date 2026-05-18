@@ -18,7 +18,8 @@
       "tenureMonths": 60
     },
     "nsc": {
-      "rate": 7.7
+      "rate": 7.7,
+      "tenureMonths": 60
     }
   }
 }
